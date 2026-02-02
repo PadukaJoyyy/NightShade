@@ -6,7 +6,9 @@
     "8568238490:AAHa46GE3kDa5i2PGuMQuWDHwZHAqEX6NTI",
     "8302182953:AAHqENzovh9ECBul6s3xQWgKh9LOANPgfbw"
   ],
-  "resellers": [],
+  "resellers": [
+    8073137462
+  ],
   "owners": [
     8355969081,
     8425880405,
